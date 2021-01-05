@@ -1,1 +1,13 @@
-# learn-prolog-now
+# Learn Prolog Now!
+- [x] Chapter 1 Facts, Rules, and Queries
+- [ ] Chapter 2 Unification and Proof Search 
+- [ ] Chapter 3 Recursion 
+- [ ] Chapter 4 Lists 
+- [ ] Chapter 5 Arithmetic 
+- [ ] Chapter 6 More Lists 
+- [ ] Chapter 7 Definite Clause Grammars 
+- [ ] Chapter 8 More Definite Clause Grammars 
+- [ ] Chapter 9 A Closer Look at Terms 
+- [ ] Chapter 10 Cuts and Negation 
+- [ ] Chapter 11 Database Manipulation and Collecting Solutions 
+- [ ] Chapter 12 Working With Files 
