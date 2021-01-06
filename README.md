@@ -1,7 +1,7 @@
 # Learn Prolog Now!
 - [x] Chapter 1 Facts, Rules, and Queries
 - [x] Chapter 2 Unification and Proof Search 
-- [ ] Chapter 3 Recursion 
+- [x] Chapter 3 Recursion 
 - [ ] Chapter 4 Lists 
 - [ ] Chapter 5 Arithmetic 
 - [ ] Chapter 6 More Lists 
